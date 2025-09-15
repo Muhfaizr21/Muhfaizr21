@@ -37,6 +37,9 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 | **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · MySQL · TailwindCSS | Smart village management platform for digital governance |
 | **School Management App** | Flutter · Firebase · MySQL | Mobile & web solution for student data, attendance, and announcements |
 | **Asset Management System** | Laravel · MySQL · Bootstrap | Elegant platform for asset tracking, categorization, and maintenance |
+| **Hotel Management System** | PHP · MySQL · Bootstrap | Web system for hotel booking, room management, and customer records |
+| **Laundry Service App** | PHP · MySQL · TailwindCSS | Digital laundry management for orders, transactions, and tracking |
+
 
 ---
 
