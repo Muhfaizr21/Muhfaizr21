@@ -1,91 +1,81 @@
 <!-- GitHub Profile README - FAIZ -->
 
-<h1 align="center">Hi there 👋, I'm Muhammad Faiz Ramadhan</h1>
-<h3 align="center">💻 Web Developer · 🌐 Laravel Enthusiast · 🚀 Tech Explorer</h3>
+<h1 align="center">✨ Hi there, I'm <span style="color:#2C5364">Muhammad Faiz Ramadhan</span> 👋</h1>
+<h3 align="center">💻 Web Developer · 🌐 Laravel Enthusiast · 🚀 Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Crafting+Smart+Solutions;Mobile+%26+Web+Developer;From+Idea+to+Execution;Turning+Tech+into+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Solutions;Fullstack+Developer+%7C+Laravel+%26+Flutter;Turning+Ideas+into+Impactful+Software;Clean+Code+%7C+Modern+UI+%7C+Smart+Systems" />
 </p>
 
 ---
 
-## 👨‍💼 About Me
+## 👨‍💼 About Me  
 
-I'm a software & hardware enthusiast with a passion for building real-world solutions through code and circuits.
+🌟 Passionate **Software Engineer** with a strong focus on **Laravel**, **Flutter**, and modern web technologies.  
+I love transforming ideas into scalable, elegant, and impactful digital solutions.  
 
 - 🎓 **D4 Software Engineering**, Politeknik Negeri Indramayu  
-- 📱 Flutter developer focused on clean architecture and responsive UI  
-- 🌐 Laravel developer for scalable and maintainable web apps  
-- 🤖 IoT tinkerer with Arduino, sensors, and microcontrollers  
-- 🔁 Real-time integrations between mobile, web, and hardware systems  
-- 🧠 Lifelong learner and hands-on project lover
+- 🌐 Laravel developer for enterprise-grade applications  
+- 📱 Flutter developer for sleek, responsive mobile apps  
+- 🧩 Enthusiast in clean architecture & system design  
+- 🚀 Always learning, always building  
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Toolbox  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,flutter,dart,firebase,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Highlight Projects  
 
-| 📱 Project | 🔧 Tech Stack | 📌 Description |
-|-----------|---------------|----------------|
-| **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · MySQL · TailwindCSS | A web-based village management system to handle population data, services, and administration digitally |
-| **School Management App** | Flutter · Firebase · MySQL | Mobile & web application for managing student data, attendance, learning materials, and announcements |
-| **Asset Management System** | Laravel · MySQL · TailwindCSS | Web platform for tracking, categorizing, and maintaining organizational assets efficiently |
-
-
----
-
-## 📊 Tech Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+| 🚩 Project | 🛠️ Tech Stack | 📌 Description |
+|------------|---------------|----------------|
+| **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · MySQL · TailwindCSS | A modern village management platform handling population data, services, and digital administration |
+| **School Management App** | Flutter · Firebase · MySQL | Cross-platform app to manage students, attendance, announcements, and learning materials |
+| **Asset Management System** | Laravel · MySQL · TailwindCSS | A web solution for tracking, categorizing, and maintaining organizational assets efficiently |
 
 ---
 
-## 🤝 Let’s Collaborate
+## 📊 Tech Focus  
 
-I’m open for:
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Elegant%20Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Reliable%20Database-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Powerful%20Logic-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-Stylish%20UI-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Let’s Collaborate  
+
+I’m open for:  
 - 🌐 Freelance **Laravel development** (web apps, APIs, admin dashboards)  
 - 💻 **Software engineering projects** (system design, clean architecture, scalable solutions)  
-- 🌱 Tech solutions for smart cities and education systems
-
-> Need a developer who builds things that work? Let’s make it happen!
+- 🌱 Innovative solutions for smart cities & education systems  
 
 📧 **Email**: faizramadhan021104@gmail.com  
 📍 **Location**: Indramayu, Indonesia  
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)  
-
+🔗 **LinkedIn**: [Visit My LinkedIn](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)  
 
 ---
 
-## ✨ Fun Bits
+## ✨ Fun Bits  
 
-- 🧪 Love simulating on **Tinkercad** and **Wokwi**
-- 🐞 Debugging = Fun (really!)
-- 🧰 Enjoy clean code and performance-tuned apps
-- 💬 _"Learning by Making. Solving by Building."_
+- 🧪 Love experimenting with **Tinkercad** & **Wokwi**  
+- 🐞 Debugging feels like solving puzzles (fun for me!)  
+- 🎨 Obsessed with clean UI & performance-optimized code  
+- 💬 _"Learning by Making. Solving by Building."_  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
