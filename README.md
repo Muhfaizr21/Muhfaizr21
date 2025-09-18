@@ -39,6 +39,8 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 | **Asset Management System** | Laravel · MySQL · Bootstrap | Elegant platform for asset tracking, categorization, and maintenance |
 | **Hotel Management System** | PHP · MySQL · Bootstrap | Web system for hotel booking, room management, and customer records |
 | **Laundry Service App** | PHP · MySQL · TailwindCSS | Digital laundry management for orders, transactions, and tracking |
+| **Jasa Rental mobil(company_profile)** | PHP · MySQL · | Digital rent management for orders |
+
 
 
 ---
