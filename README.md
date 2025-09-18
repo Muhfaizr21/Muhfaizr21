@@ -42,6 +42,7 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 | **Jasa Rental mobil(Company_Profile)** | PHP · MySQL Bootstrap  | Digital rent management for orders |
 | **Sekolahku (Landing_Page)** | PHP · MySQL · Bootstrap  | Landing Page for School |
 | **Neper Tech** | PHP · MySQL · Bootstrap | Web-based attendance management system. |
+| **Quran Online** | PHP · MySQL · Javascript · Bootstrap  | An Online Quran Website built with HTML, CSS, Bootstrap, PHP, and JavaScript, providing a simple and responsive platform to read and access the Holy Quran online. |
 
 
 
