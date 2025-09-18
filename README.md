@@ -12,7 +12,7 @@
 ## 👨‍💼 About Me  
 
 I’m a **Software Engineer** passionate about building **scalable web apps** and **aesthetic UIs**.  
-I combine **Laravel** for robust backends, **React.js** for sleek frontends, **Flutter** for mobile apps, and **TailwindCSS/Bootstrap** for modern design.  
+I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **TailwindCSS/Bootstrap** for modern design.  
 
 - 🎓 **D4 Software Engineering**, Politeknik Negeri Indramayu  
 - 🌐 Laravel developer for enterprise-grade applications  
@@ -57,11 +57,6 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Modern%20Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-Responsive%20UI-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/TailwindCSS-Stylish%20UI-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-Powerful%20Logic-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
@@ -72,7 +67,6 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 
 I’m open for:  
 - 🌐 **Laravel Development** (APIs, dashboards, enterprise web apps)  
-- ⚛️ **React.js Projects** (dynamic & scalable web apps)  
 - 💻 **Software Engineering** (clean architecture, scalable systems)  
 - 🌍 **Tech for Smart Cities & Education**  
 
