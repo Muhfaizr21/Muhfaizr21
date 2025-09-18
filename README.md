@@ -34,12 +34,14 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 
 | 🚩 Project | 🛠️ Tech | ✨ Description |
 |------------|----------|----------------|
-| **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · MySQL | Smart village management platform for digital governance |
+| **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · Flutter · MySQL | Mobile & Web Smart village management platform for digital governance |
 | **School Management App** | PHP · MySQL | Web solution for student data, attendance, and announcements |
 | **Asset Management System** | Laravel · MySQL · Bootstrap | Elegant platform for asset tracking, categorization, and maintenance |
 | **Hotel Management System** | PHP · MySQL · Bootstrap | Web system for hotel booking, room management, and customer records |
 | **Laundry Service App** | PHP · MySQL | Digital laundry management for orders, transactions, and tracking |
-| **Jasa Rental mobil(company_profile)** | PHP · MySQL  | Digital rent management for orders |
+| **Jasa Rental mobil(Company_Profile)** | PHP · MySQL  | Digital rent management for orders |
+| **Sekolahku (Landing_Page)** | PHP · MySQL  | Landing Page for School |
+
 
 
 
