@@ -25,7 +25,7 @@ I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **Tai
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,bootstrap,tailwind,flutter,dart,firebase,git,github,vscode,figma&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,tailwind,flutter,dart,firebase,git,github,vscode,figma&theme=dark&perline=7" />
 </p>
 
 ---
