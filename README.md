@@ -38,10 +38,10 @@ I combine **Laravel** for robust backends, **React.js** for sleek frontends, **F
 | **School Management App** | PHP · MySQL | Web solution for student data, attendance, and announcements |
 | **Asset Management System** | Laravel · MySQL · Bootstrap | Elegant platform for asset tracking, categorization, and maintenance |
 | **Hotel Management System** | PHP · MySQL · Bootstrap | Web system for hotel booking, room management, and customer records |
-| **Laundry Service App** | PHP · MySQL | Digital laundry management for orders, transactions, and tracking |
-| **Jasa Rental mobil(Company_Profile)** | PHP · MySQL  | Digital rent management for orders |
-| **Sekolahku (Landing_Page)** | PHP · MySQL  | Landing Page for School |
-| **Neper Tech** | PHP · MySQL  | Web-based attendance management system. |
+| **Laundry Service App** | PHP · MySQL · Bootstrap | Digital laundry management for orders, transactions, and tracking |
+| **Jasa Rental mobil(Company_Profile)** | PHP · MySQL Bootstrap  | Digital rent management for orders |
+| **Sekolahku (Landing_Page)** | PHP · MySQL · Bootstrap  | Landing Page for School |
+| **Neper Tech** | PHP · MySQL · Bootstrap | Web-based attendance management system. |
 
 
 
