@@ -16,7 +16,6 @@ I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **Tai
 
 - 🎓 **D4 Software Engineering**, Politeknik Negeri Indramayu  
 - 🌐 Laravel developer for enterprise-grade applications  
-- ⚛️ React developer for interactive & responsive web apps  
 - 📱 Flutter developer for clean & cross-platform solutions  
 - 🎨 Obsessed with minimal design and performance  
 
