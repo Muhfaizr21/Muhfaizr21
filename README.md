@@ -71,19 +71,10 @@ I’m open for:
 - 🌍 **Tech for Smart Cities & Education**  
 
 📧 **Email**: faizramadhan021104@gmail.com  
-📍 **Location**: Indramayu, Indonesia  
+📍 **Location**: Cirebon, Indonesia  
 🔗 **[LinkedIn](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)**  
 
----
 
-## ✨ Fun Bits  
-
-- 🧪 Love tinkering with **Arduino, ESP32 & IoT simulations**  
-- 🐞 Debugging feels like solving puzzles  
-- 🎨 Coding = **digital art** for me  
-- 💬 _“Learning by Making. Solving by Building.”_  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer"/>
