@@ -1,30 +1,40 @@
-<!-- GitHub Profile README - FAIZ -->
+<!-- GitHub Profile README - Muhammad Faiz Ramadhan -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#2C5364">Muhammad Faiz Ramadhan</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
 <h3 align="center">💻 Web Developer · 🌐 Laravel Enthusiast · 🎨 Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Solutions;Fullstack+Developer+%7C+Laravel+%26+Flutter;React+for+Modern+Web+Apps;Turning+Ideas+into+Impactful+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Solutions;Fullstack+Developer+%7C+Laravel+%26+Flutter;React+for+Modern+Web+Apps;Turning+Ideas+into+Impactful+Software" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizramadhan0211&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/faizramadhan0211?tab=followers">
+    <img src="https://img.shields.io/github/followers/faizramadhan0211?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/faizramadhan0211">
+    <img src="https://img.shields.io/github/stars/faizramadhan0211?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💼 About Me  
 
-I’m a **Software Engineer** passionate about building **scalable web apps** and **aesthetic UIs**.  
-I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **TailwindCSS/Bootstrap** for modern design.  
+I'm a **Software Engineer** passionate about crafting **scalable web applications** and **aesthetic user interfaces**.  
+I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, and stylish UIs with **TailwindCSS** or **Bootstrap**.  
 
-- 🎓 **D4 Software Engineering**, Politeknik Negeri Indramayu  
-- 🌐 Laravel developer for enterprise-grade applications  
-- 📱 Flutter developer for clean & cross-platform solutions  
-- 🎨 Obsessed with minimal design and performance  
+- 🎓 D4 Software Engineering — Politeknik Negeri Indramayu  
+- 🧠 Focus on Laravel, Flutter, UI/UX & scalable architecture  
+- 🛠️ Love clean code, modern design, and high performance  
+- 🚀 Always eager to learn, build, and collaborate  
 
 ---
 
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,tailwind,flutter,dart,firebase,git,github,vscode,figma&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,tailwind,flutter,dart,firebase,git,github,vscode,figma&theme=dark&perline=7" alt="Tech Stack"/>
 </p>
 
 ---
@@ -33,23 +43,21 @@ I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **Tai
 
 | 🚩 Project | 🛠️ Tech | ✨ Description |
 |------------|----------|----------------|
-| **SIMADE (Sistem Informasi Manajemen Desa)** | Laravel · Flutter · MySQL | Mobile & Web Smart village management platform for digital governance |
-| **School Management App** | PHP · MySQL | Web solution for student data, attendance, and announcements |
-| **Asset Management System** | Laravel · MySQL · Bootstrap | Elegant platform for asset tracking, categorization, and maintenance |
-| **Hotel Management System** | PHP · MySQL · Bootstrap | Web system for hotel booking, room management, and customer records |
-| **Laundry Service App** | PHP · MySQL · Bootstrap | Digital laundry management for orders, transactions, and tracking |
-| **Jasa Rental mobil(Company_Profile)** | PHP · MySQL Bootstrap  | Digital rent management for orders |
-| **Sekolahku (Landing_Page)** | PHP · MySQL · Bootstrap  | Landing Page for School |
-| **Neper Tech** | PHP · MySQL · Bootstrap | Web-based attendance management system. |
-| **Quran Online** | PHP · MySQL · Javascript · Bootstrap  | An Online Quran Website built with HTML, CSS, Bootstrap, PHP, and JavaScript, providing a simple and responsive platform to read and access the Holy Quran online |
-| **Film (Kelas online Ngoding bareng Dea Afrizal)** | React.Js | A simple online movie website in Dea Afrizal’s online class |
-| **Pemesanan Tiket Konser (TiketAdt))** | Laravel . MySQL . Bootstrap | An online concert ticket booking website |
-
-
+| **SIMADE** *(Sistem Informasi Manajemen Desa)* | Laravel · Flutter · MySQL | Smart village management platform for digital governance |
+| **School Management App** | PHP · MySQL | Web solution for managing student data, attendance & announcements |
+| **Asset Management System** | Laravel · Bootstrap · MySQL | Elegant system for asset tracking and maintenance |
+| **Hotel Management System** | PHP · MySQL · Bootstrap | Hotel booking & room management platform |
+| **Laundry Service App** | PHP · MySQL · Bootstrap | Order & transaction management system |
+| **Jasa Rental Mobil (Company Profile)** | PHP · MySQL · Bootstrap | Digital platform for car rental service |
+| **Sekolahku (Landing Page)** | PHP · MySQL · Bootstrap | Simple landing page for school |
+| **Neper Tech** | PHP · MySQL · Bootstrap | Web-based attendance system |
+| **Quran Online** | PHP · MySQL · JavaScript | Responsive platform to read Al-Quran online |
+| **Film Website** *(Dea Afrizal Online Class)* | React.js | Simple movie site built with React |
+| **TiketAdt** *(Pemesanan Tiket Konser)* | Laravel · Bootstrap · MySQL | Online concert ticket booking website |
 
 ---
 
-## 🎯 Tech Focus Showcase  
+## 🏆 Tech Focus  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-Elegant%20Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -63,18 +71,33 @@ I combine **Laravel** for robust backends,**Flutter** for mobile apps, and **Tai
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizramadhan0211&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizramadhan0211&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizramadhan0211&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
+---
+
 ## 🤝 Let’s Collaborate  
 
-I’m open for:  
-- 🌐 **Laravel Development** (APIs, dashboards, enterprise web apps)  
-- 💻 **Software Engineering** (clean architecture, scalable systems)  
-- 🌍 **Tech for Smart Cities & Education**  
+I’m open to collaborate on:  
+- 🌐 **Laravel Development** — APIs, dashboards, and enterprise apps  
+- 💻 **Software Engineering** — clean architecture & scalable systems  
+- 🌍 **Smart City & Education Tech** projects  
 
-📧 **Email**: faizramadhan021104@gmail.com  
-📍 **Location**: Cirebon, Indonesia  
-🔗 **[LinkedIn](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)**  
+📧 **Email:** [faizramadhan021104@gmail.com](mailto:faizramadhan021104@gmail.com)  
+📍 **Location:** Cirebon, Indonesia  
+🔗 **LinkedIn:** [Muhammad Faiz Ramadhan](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)  
 
-
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer"/>
