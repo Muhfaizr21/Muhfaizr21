@@ -82,7 +82,36 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizramadhan0211&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-> ✨ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+---
+
+## 📌 Pinned Project Showcase  
+
+<p align="center">
+  <a href="https://github.com/faizramadhan0211/SIMADE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=SIMADE&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/faizramadhan0211/TiketAdt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=TiketAdt&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/faizramadhan0211/Quran-Online">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=Quran-Online&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/faizramadhan0211/Hotel-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=Hotel-Management&theme=tokyonight" />
+  </a>
+</p>
+
+> 📌 *Pinned project ini menampilkan portofolio terbaikmu langsung di profil utama GitHub!*
+
+---
+
+## 🧭 Personal Motto  
+
+> *“Great software isn’t just built — it’s crafted with passion, purpose, and persistence.”*  
+> — Muhammad Faiz Ramadhan
 
 ---
 
