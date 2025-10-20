@@ -55,6 +55,7 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
 | **Film Website** *(Dea Afrizal Online Class)* | React.js | Simple movie site built with React |
 | **TiketAdt** *(Pemesanan Tiket Konser)* | Laravel · Bootstrap · MySQL | Online concert ticket booking website |
 | **Dashboard Admin** | React.js | Admin Dashboard Simple View |
+| **E-Commerce Landing Pagen** | React.js | e commerce template with Simple View |
 
 ---
 
