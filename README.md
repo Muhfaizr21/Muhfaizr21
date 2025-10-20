@@ -54,7 +54,7 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
 | **Quran Online** | PHP · MySQL · JavaScript | Responsive platform to read Al-Quran online |
 | **Film Website** *(Dea Afrizal Online Class)* | React.js | Simple movie site built with React |
 | **TiketAdt** *(Pemesanan Tiket Konser)* | Laravel · Bootstrap · MySQL | Online concert ticket booking website |
-| **Dashboard Admin** | React.js | Responsive platform to read Al-Quran online |
+| **Dashboard Admin** | React.js | Admin Dashboard Simple View |
 
 ---
 
