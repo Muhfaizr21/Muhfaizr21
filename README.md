@@ -54,6 +54,7 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
 | **Quran Online** | PHP · MySQL · JavaScript | Responsive platform to read Al-Quran online |
 | **Film Website** *(Dea Afrizal Online Class)* | React.js | Simple movie site built with React |
 | **TiketAdt** *(Pemesanan Tiket Konser)* | Laravel · Bootstrap · MySQL | Online concert ticket booking website |
+| **Dashboard Admin** | React.js | Responsive platform to read Al-Quran online |
 
 ---
 
@@ -71,42 +72,6 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizramadhan0211&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizramadhan0211&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizramadhan0211&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 📌 Pinned Project Showcase  
-
-<p align="center">
-  <a href="https://github.com/faizramadhan0211/SIMADE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=SIMADE&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/faizramadhan0211/TiketAdt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizramadhan0211&repo=TiketAdt&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/faizramadhan0211/Quran-Online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=Quran-Online&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/faizramadhan0211/Hotel-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=Hotel-Management&theme=tokyonight" />
-  </a>
-</p>
-
-> 📌 *Pinned project ini menampilkan portofolio terbaikmu langsung di profil utama GitHub!*
-
----
 
 ## 🧭 Personal Motto  
 
