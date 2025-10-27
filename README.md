@@ -56,9 +56,9 @@ I build strong backends with **Laravel**, smooth mobile apps with **Flutter**, a
 | **TiketAdt** *(Pemesanan Tiket Konser)* | Laravel · Bootstrap · MySQL | Online concert ticket booking website |
 | **Dashboard Admin** | React.js · Taillwind Css | Admin Dashboard Simple View |
 | **E-Commerce Landing Page** | React.js · Taillwind Css | e commerce template with Simple View |
-| **E-Lapor Desa** | Laravel · Taillwind Css | E-Lapor with Simple View |
+| **E-Lapor Desa** | Laravel · Taillwind Css | E-Lapor with Simple View and chat bot |
 
-
+ 
 ---
 
 ## 🏆 Tech Focus  
