@@ -45,9 +45,6 @@ Saya seorang **Software Engineer** yang bersemangat dalam membuat **aplikasi web
 
 ## 🚀 Highlight Projects
 
-Daripada daftar panjang, berikut adalah 3 proyek unggulan yang paling saya banggakan.
-*(Tips: Ganti `LINK_KE_REPO` dengan link GitHub Anda dan `LINK_KE_SCREENSHOT` dengan URL gambar Anda)*
-
 <table width="100%">
   <tr>
     <td width="50%">
