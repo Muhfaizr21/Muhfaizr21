@@ -102,7 +102,7 @@ Daripada daftar panjang, berikut adalah 3 proyek unggulan yang paling saya bangg
       <h3 align="center">4. Hotel Managemment System</h3>
       <p align="center">
         <a href="[LINK_KE_REPO_REACT_DASHBOARD]">
-          <img src="[LINK_KE_SCREENSHOT_REACT_DASHBOARD]" alt="React Dashboard Preview" width="100%">
+          <img src="[LINK_KE_SCREENSHOT_REACT_DASHBOARD]" alt="RHotel Managemment System" width="100%">
         </a>
       </p>
       <p>
