@@ -99,7 +99,7 @@ Daripada daftar panjang, berikut adalah 3 proyek unggulan yang paling saya bangg
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">4. React Admin Dashboard</h3>
+      <h3 align="center">4. Hotel Managemment System</h3>
       <p align="center">
         <a href="[LINK_KE_REPO_REACT_DASHBOARD]">
           <img src="[LINK_KE_SCREENSHOT_REACT_DASHBOARD]" alt="React Dashboard Preview" width="100%">
@@ -116,7 +116,7 @@ Daripada daftar panjang, berikut adalah 3 proyek unggulan yang paling saya bangg
   </tr>
 </table>
 
-## 🚀 Highlight Projects  
+## 🚀 Detail Projects  
 
 | 🚩 Project | 🛠️ Tech | ✨ Description |
 |------------|----------|----------------|
