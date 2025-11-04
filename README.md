@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
-<h3 align="center">💻 Web Developer · 🌐 Laravel Enthusiast · 🎨 Software Engineer</h3>
+<h3 align="center">💻 Web Developer</h3>
 
 
 ## 👨‍💼 About Me
@@ -41,11 +41,8 @@ Saya seorang **Software Engineer** yang bersemangat dalam membuat **aplikasi web
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/>
-  📍 **Lokasi:** Cirebon, Indonesia
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer"/>
-</p>
+
