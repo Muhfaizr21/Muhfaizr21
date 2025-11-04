@@ -1,18 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
 <h3 align="center">💻 Web Developer</h3>
 
-
-## 👨‍💼 About Me
-
-Saya seorang **Software Engineer** yang bersemangat dalam membuat **aplikasi web yang skalabel** dan **antarmuka pengguna yang estetik**. Saya membangun backend yang kuat dengan **Laravel**, aplikasi seluler yang mulus dengan **Flutter**, dan UI yang *stylish* dengan **TailwindCSS** atau **Bootstrap**.
-
-- 🎓 D4 Rekayasa Perangkat Lunak — Politeknik Negeri Indramayu
-- 🧠 Fokus pada Laravel, Flutter, UI/UX & arsitektur yang skalabel
-- 🛠️ Menyukai *clean code*, desain modern, dan performa tinggi
-- 🚀 Selalu bersemangat untuk belajar, membangun, dan berkolaborasi
-
-
-
 ## 🚀 Detail Projects  
 
 | 🚩 Project | 🛠️ Tech | ✨ Description |
@@ -31,6 +19,8 @@ Saya seorang **Software Engineer** yang bersemangat dalam membuat **aplikasi web
 | **Dashboard Admin** | React.js · Taillwind Css | Admin Dashboard Simple View |
 | **E-Commerce Landing Page** | React.js · Taillwind Css | e commerce template with Simple View |
 | **E-Lapor Desa** | Laravel · Taillwind Css | E-Lapor with Simple View and chat bot |
+| **MuscleTrack** | Laravel · Taillwind Css | A health-supported app for gym enthusiasts who need to track their calorie intake, food intake, etc.|
+| **RentGo.id** | Laravel · Taillwind Css | Car rental application where users can see which cars are available for rent |
 
  
 <p align="left">
