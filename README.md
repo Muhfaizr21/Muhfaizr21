@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
-<h3 align="center">💻 Web Developer</h3>
+<h3 align="center">💻 Web Developer & Vibe Coding✨ </h3>
 
 ## 🚀 Detail Projects  
 
