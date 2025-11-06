@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
 <h3 align="center">💻 Web Developer & Vibe Coding✨ </h3>
-<h2 align="center">Jaga Logika dan Akal Sehat </h2>
+<h5 align="center">Jaga Logika dan Akal Sehat </h5>
 
 ## 🚀 Detail Projects  
 
