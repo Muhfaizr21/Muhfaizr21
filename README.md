@@ -60,8 +60,7 @@ I craft **full-stack ecosystems** — from backend logic to frontend flow — wh
 The future isn’t about more apps.  
 It’s about **architecting intelligent ecosystems** that unify people, data, and systems — seamlessly and securely.  
 
-I’m currently focusing on:
-- 🌐 **Smart Village Systems** — digital governance that empowers local communities.  
+I’m currently focusing on: 
 - 🧱 **AI-Driven Infrastructure** — frameworks that self-optimize and learn from usage.  
 - 🛡️ **Secure Digital Identity Systems** — trust-driven architecture for connected societies.  
 
