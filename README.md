@@ -46,7 +46,7 @@ I build **full-stack environments** designed for reliability, performance, and s
 | Domain | Stack |
 |--------|--------|
 | **Frontend** | React.js · Tailwind CSS · Bootstrap |
-| **Backend** | Laravel · PHP · Node.js |
+| **Backend** | Laravel · PHP · Node.js · Golang · Python | 
 | **Database** | MySQL · PostgreSQL |
 | **Mobile** | Flutter |
 | **Security** | Authentication · Encryption · CSRF/XSS Prevention |
