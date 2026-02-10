@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
 <h3 align="center">💻 Full Stack Developer | Digital Architect | Tech Builder</h3>
-<h4 align="center">"Engineering clarity, logic, and purpose into every line of code."</h4>
+
 
 ---
 
