@@ -1,21 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#2C5364;">Muhammad Faiz Ramadhan</span></h1>
 <h3 align="center">💻 Full Stack Developer | Digital Architect | Tech Builder</h3>
-
-
----
-
-## 🧭 Vision  
-
-I believe technology isn’t just a tool — it’s an extension of human intelligence.  
-My work focuses on building systems that **think, adapt, and serve real human needs** with precision and integrity.
-
-> *Goal:* Design architectures where logic, design, and trust coexist naturally.
-
-Every product I build follows three principles:  
-1. **Clarity of logic** — clean systems built on cause and effect.  
-2. **Elegance of design** — interfaces that simplify complexity.  
-3. **Security by default** — protection engineered into the foundation.  
-
 
 ---
 
@@ -66,4 +50,4 @@ and **build the next generation of digital infrastructure together.**
 
 ---
 
-<h4 align="center">🧠 Building technology that endures — one system at a time.</h4>
+
