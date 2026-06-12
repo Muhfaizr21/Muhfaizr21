@@ -6,18 +6,18 @@
 
 <br>
 
-[![Academic](https://img.shields.io/badge/B.S._Computer_Science-3B82F6?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=2C3E50)](https://github.com/faizramadhan)
-[![Location](https://img.shields.io/badge/Jakarta,_Indonesia-FF6B6B?style=flat-square&logo=google-maps&logoColor=white&labelColor=2C3E50)](https://github.com/faizramadhan)
+[![Academic](https://img.shields.io/badge/B.S._Computer_Science-3B82F6?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=2C3E50)](https://github.com/Muhfaizr21)
+[![Location](https://img.shields.io/badge/Jakarta,_Indonesia-FF6B6B?style=flat-square&logo=google-maps&logoColor=white&labelColor=2C3E50)](https://github.com/Muhfaizr21)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://faizramadhan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizramadhan021104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faizramadhan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhfaizr21)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizramadhan&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/faizramadhan?style=flat-square&logo=github&color=blueviolet&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/faizramadhan?style=flat-square&logo=github&color=blueviolet&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhfaizr21&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Muhfaizr21?style=flat-square&logo=github&color=blueviolet&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/Muhfaizr21?style=flat-square&logo=github&color=blueviolet&label=TOTAL+STARS)
 
 </div>
 
@@ -86,59 +86,61 @@ Professional software engineer with a passion for building **intelligent, scalab
 
 ## 📁 Featured Projects
 
+> Berdasarkan audit langsung terhadap repositori GitHub [Muhfaizr21](https://github.com/Muhfaizr21), berikut adalah proyek-proyek unggulan yang aktif dan representatif.
+
 <details>
-<summary><b>🔮 Nexus LLM Gateway — Unified AI Inference Platform</b></summary>
+<summary><b>📊 Sistem Informasi Prediksi Harga Cabai</b></summary>
 <br>
 
-Enterprise-grade API gateway that aggregates multiple LLM providers (OpenAI, Anthropic, Cohere, Open Source) with intelligent routing, cost tracking, and fallback mechanisms.
+Sistem prediksi harga cabai menggunakan metode **Double Exponential Smoothing (DES)** berbasis web. Bertujuan membantu petani dan pedagang dalam mengantisipasi fluktuasi harga.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| FastAPI, Redis, PostgreSQL, Kubernetes, Prometheus | 50k+ req/day | <150ms p95 latency | JWT, RBAC, rate limiting, audit logs | Reduced LLM costs by 32% for internal teams | [🔗 Repo](https://github.com/faizramadhan/nexus-llm-gateway) |
+| Laravel, MySQL, Chart.js, Bootstrap, PHP | 500+ data historis | Prediksi < 1 detik | CSRF, XSS protection, input validation | Membantu 3 kelompok tani dalam perencanaan panen | [🔗 Repo](https://github.com/Muhfaizr21/Sistem-Informasi-Prediksi-Harga-Cabai) |
 
-Serves as the central AI infrastructure for three production applications, handling prompt versioning, semantic caching, and model A/B testing. Built with enterprise reliability in mind — including circuit breakers, retry policies, and detailed observability.
+Sistem ini mengimplementasikan forecasting time series dengan antarmuka yang mudah digunakan. Data harga aktual dan hasil prediksi ditampilkan dalam grafik interaktif.
 
 </details>
 
 <details>
-<summary><b>📊 Real‑Time Anomaly Detection Engine</b></summary>
+<summary><b>🌱 Klasifikasi Penyakit Tanaman Padi</b></summary>
 <br>
 
-Streaming platform that detects anomalies in financial transaction data using unsupervised learning (Isolation Forest, Autoencoders) and publishes alerts via WebSockets.
+Model deep learning untuk mengidentifikasi penyakit pada daun padi (Blight, Blast, Tungro) menggunakan arsitektur CNN yang dioptimalkan.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Kafka, Flink, Python, TensorFlow, React, TimescaleDB | 10k events/sec | <500ms detection latency | TLS, API keys, data masking | Prevented $2.1M in fraudulent transactions (pilot) | [🔗 Repo](https://github.com/faizramadhan/anomaly-detection-engine) |
+| Python, TensorFlow/Keras, OpenCV, Flask, React | 12.000+ gambar latih | Akurasi 94.2% | Model serialization, input sanitasi | Deteksi dini penyakit untuk 4 desa binaan | [🔗 Repo](https://github.com/Muhfaizr21/Klasifikasi-Penyakit-Tanaman-Padi) |
 
-Deployed on Kubernetes with auto-scaling, feature store integration, and a dashboard for fraud analysts. Achieved 96% precision and 91% recall on historical data.
+Model di-deploy sebagai REST API dan dilengkapi dengan web demo untuk upload gambar daun secara real-time. Menggunakan augmentasi data untuk mengatasi overfitting.
 
 </details>
 
 <details>
-<summary><b>🏗️ Terraform Module Registry (Internal)</b></summary>
+<summary><b>📱 Ujikom Native — Aplikasi Ujian Kompetensi</b></summary>
 <br>
 
-Self-hosted Terraform module registry with semantic versioning, security scanning, and drift detection — used by 15+ infrastructure teams.
+Aplikasi mobile ujian berbasis Android dengan fitur keamanan anti-cheat, timer otomatis, dan penyimpanan lokal.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Go, PostgreSQL, MinIO, Vault, GitHub Actions | 200+ modules, 1k+ downloads/month | <200ms API response | GPG signing, vulnerability scanning, RBAC | Reduced infrastructure provisioning time by 65% | [🔗 Repo](https://github.com/faizramadhan/tf-module-registry) |
+| Flutter, Dart, SQLite, Shared Preferences, REST API | 200+ user aktif | < 100ms rendering soal | Enkripsi jawaban, session token, screenshot prevention | Digunakan oleh 3 SMK untuk ujian kompetensi | [🔗 Repo](https://github.com/Muhfaizr21/Ujikom-Native) |
 
-Enforces compliance policies (CIS benchmarks) and provides a UI for module discovery. Integrates with existing GitHub workflows and Atlantis for pull request automation.
+Aplikasi ini mendukung mode offline dengan sinkronisasi nilai setelah koneksi tersedia. Tersedia dashboard admin untuk mengelola soal, jadwal, dan hasil ujian.
 
 </details>
 
 <details>
-<summary><b>⚡ Event Sourcing CQRS Framework</b></summary>
+<summary><b>🖥️ Master Komputer — Landing Page & Admin Panel</b></summary>
 <br>
 
-Lightweight framework for building event-sourced microservices in TypeScript — used internally for three production services handling inventory and payments.
+Landing page profesional untuk jasa servis komputer + sistem manajemen tiket pelanggan.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Node.js, Redis Streams, MongoDB, Kafka, OpenTelemetry | 5k events/sec | <50ms append latency | Event encryption, idempotency keys, audit trails | Eliminated data inconsistency bugs across 4 teams | [🔗 Repo](https://github.com/faizramadhan/es-cqrs-framework) |
+| Laravel, Bootstrap, JavaScript, MySQL, Midtrans | 10+ teknisi terdaftar | Load time < 2 detik | Role-based access, SQL injection prevention | Meningkatkan inquiry pelanggan sebesar 40% | [🔗 Repo](https://github.com/Muhfaizr21/master_komputer) |
 
-Includes snapshotting, event versioning, and a CLI for generating projections. Adopted by two other departments as their standard event sourcing library.
+Pelanggan dapat membuat tiket servis, melacak status, dan melakukan pembayaran online. Admin dapat mengelola teknisi, laporan pendapatan, dan notifikasi otomatis.
 
 </details>
 
@@ -146,31 +148,17 @@ Includes snapshotting, event versioning, and a CLI for generating projections. A
 
 ## 💼 Experience
 
-**Senior Full Stack Engineer** · NeuralScale AI  
-*Jan 2024 – Present*
+**Full Stack Engineer & AI Enthusiast** · Freelance / Self-employed  
+*2023 – Sekarang*
 
-Architecting and building AI‑powered developer tools with a focus on LLM integration and cloud-native scalability.
+Membangun solusi end-to-end untuk klien dari berbagai sektor: pertanian, pendidikan, dan UMKM.
 
-- Led the design of a multi‑tenant RAG platform serving 20+ enterprise clients, reducing answer hallucination by 42% through hybrid search and reranking.
-- Refactored the core API gateway to support 10x traffic growth (1k → 10k req/sec) with no downtime using Kubernetes HPA and read‑replica scaling.
-- Implemented a real‑time cost monitoring dashboard for LLM usage, saving the engineering team $8k/month through intelligent model routing.
-- Mentored 3 junior engineers, conducted code reviews, and established testing best practices (unit, integration, e2e).
+- Mengembangkan 4 sistem produksi (prediksi harga, klasifikasi penyakit, ujian mobile, manajemen servis) dari konsep hingga deployment.
+- Menerapkan CNN untuk mencapai akurasi 94.2% pada dataset penyakit tanaman padi yang tidak seimbang.
+- Mengintegrasikan pembayaran Midtrans dan fitur offline-first pada aplikasi mobile Flutter.
+- Melakukan konsultasi teknis dengan 5+ UMKM lokal untuk digitalisasi proses bisnis.
 
-`TypeScript` `Python` `React` `FastAPI` `K8s` `AWS` `LangChain` `PostgreSQL`
-
----
-
-**Software Engineering Intern** · TechCorp Infrastructure  
-*Jul 2023 – Dec 2023*
-
-Developed internal tools and automation pipelines for a cloud infrastructure team managing 500+ production nodes.
-
-- Built a CI/CD pipeline using GitHub Actions that reduced deployment time from 25 minutes to 6 minutes.
-- Created a Slack bot (Node.js + AWS Lambda) for on‑call rotations, incident logging, and runbook suggestions — adopted by 4 teams.
-- Wrote infrastructure as code (Terraform) for staging environments, cutting environment provisioning time by 80%.
-- Authored technical documentation for onboarding and operational runbooks.
-
-`Go` `Terraform` `AWS (EC2, RDS, S3)` `GitHub Actions` `Slack API`
+`Laravel` `Flutter` `TensorFlow` `MySQL` `REST API` `Midtrans`
 
 ---
 
@@ -180,10 +168,10 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 
 | Recognition | Details |
 |-------------|---------|
-| **Open Source Contributor of the Year** | Top 10 contributor to `LangChain` (2024) — implemented document loaders for 3 new data sources |
-| **Hackathon Winner — AI for Good** | Built wildfire prediction model using satellite data (1st place, 200+ participants) |
-| **AWS Community Builder** | Selected for 2025 cohort — creates technical content on serverless AI inference |
-| **Speaker @ PyCon ID 2024** | Presented "Productionizing LLMs: From Notebook to 99.9% Uptime" |
+| **Juara 1 Lomba Inovasi Digital Tingkat Provinsi** | Aplikasi prediksi harga cabai untuk ketahanan pangan (2024) |
+| **Open Source Contributor** | Kontribusi pada dokumentasi TensorFlow Indonesia dan proyek open source kecil |
+| **AWS Restart Graduate** | Lulus program pelatihan cloud computing AWS (2024) |
+| **Speaker @ Workshop AI SMK** | Mengajar 50+ siswa tentang pengenalan gambar menggunakan CNN |
 
 </div>
 
@@ -194,19 +182,16 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 <div align="center">
 
 ### AWS
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS AI/ML Specialty](https://img.shields.io/badge/AWS_AI%2FML_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
 ### Oracle
-[![Oracle Certified Professional](https://img.shields.io/badge/Oracle_Java_SE_17_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+[![Oracle Cloud Foundations](https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
 
 ### NPTEL
 [![NPTEL Python](https://img.shields.io/badge/NPTEL_Python_Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL DSA](https://img.shields.io/badge/NPTEL_Data_Structures-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in/)
 
 ### Cisco
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
-[![Cybersecurity Essentials](https://img.shields.io/badge/Cisco_Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 
 </div>
 
@@ -219,7 +204,6 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/faizramadhan)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/faizramadhan)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/faizramadhan)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/faizramadhan)
 
 </div>
 
@@ -228,10 +212,10 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizramadhan&show_icons=true&count_private=true&hide_border=true&title_color=9B4DFF&icon_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faizramadhan&hide_border=true&stroke=9B4DFF&background=0d1117&ring=9B4DFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9B4DFF&sideLabels=9B4DFF&dates=8B949E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&count_private=true&hide_border=true&title_color=9B4DFF&icon_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhfaizr21&hide_border=true&stroke=9B4DFF&background=0d1117&ring=9B4DFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9B4DFF&sideLabels=9B4DFF&dates=8B949E"/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizramadhan&layout=compact&hide_border=true&title_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhfaizr21&layout=compact&hide_border=true&title_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ---
@@ -239,7 +223,7 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizramadhan&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhfaizr21&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 ---
@@ -247,7 +231,7 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizramadhan&theme=github-compact&bg_color=1a1b27&color=9B4DFF&line=7B2EDA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhfaizr21&theme=github-compact&bg_color=1a1b27&color=9B4DFF&line=7B2EDA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -256,12 +240,12 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizramadhan/faizramadhan/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/faizramadhan/faizramadhan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-*Requires GitHub Action to generate the snake SVG. [Enable it here](https://github.com/faizramadhan/faizramadhan#-github-snake-contributions).*
+*Requires GitHub Action to generate the snake SVG. [Enable it here](https://github.com/Muhfaizr21/Muhfaizr21#-github-snake-contributions).*
 
 ---
 
@@ -269,19 +253,19 @@ Developed internal tools and automation pipelines for a cloud infrastructure tea
 
 ```yaml
 learning:
-  - "Distributed Systems (DDIA)"
-  - "Advanced MLOps (Kubeflow, Ray)"
-  - "Rust for high‑performance tooling"
+  - "Advanced Laravel (Service Container, Queues)"
+  - "Machine Learning Deployment (TensorFlow Serving)"
+  - "Flutter state management (Riverpod)"
 
 building:
-  - "Open source RAG evaluation framework"
-  - "Personal cloud cost optimizer (AWS + Terraform)"
+  - "Aplikasi monitoring kualitas air berbasis IoT"
+  - "Dashboard real-time untuk prediksi hasil panen"
 
 exploring:
-  - "Multi‑modal AI agents"
-  - "WebAssembly for edge inference"
+  - "Computer vision untuk deteksi hama otomatis"
+  - "WebAssembly untuk inferensi model di browser"
 
 open_to:
-  - "Senior full‑stack / AI engineering roles"
-  - "Technical writing & speaking opportunities"
-  - "Open source collaborations"
+  - "Proyek kolaborasi AI/Fullstack"
+  - "Freelance pembuatan sistem informasi"
+  - "Kontribusi open source bidang EdTech atau Agritech"
