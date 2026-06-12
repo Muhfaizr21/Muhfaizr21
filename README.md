@@ -84,119 +84,6 @@ Professional software engineer with a passion for building **intelligent, scalab
 
 ---
 
-## 📁 Featured Projects
-
-> Berdasarkan audit langsung terhadap repositori GitHub [Muhfaizr21](https://github.com/Muhfaizr21), berikut adalah proyek-proyek unggulan yang aktif dan representatif.
-
-<details>
-<summary><b>📊 Sistem Informasi Prediksi Harga Cabai</b></summary>
-<br>
-
-Sistem prediksi harga cabai menggunakan metode **Double Exponential Smoothing (DES)** berbasis web. Bertujuan membantu petani dan pedagang dalam mengantisipasi fluktuasi harga.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------|-------------|----------|--------|------------|
-| Laravel, MySQL, Chart.js, Bootstrap, PHP | 500+ data historis | Prediksi < 1 detik | CSRF, XSS protection, input validation | Membantu 3 kelompok tani dalam perencanaan panen | [🔗 Repo](https://github.com/Muhfaizr21/Sistem-Informasi-Prediksi-Harga-Cabai) |
-
-Sistem ini mengimplementasikan forecasting time series dengan antarmuka yang mudah digunakan. Data harga aktual dan hasil prediksi ditampilkan dalam grafik interaktif.
-
-</details>
-
-<details>
-<summary><b>🌱 Klasifikasi Penyakit Tanaman Padi</b></summary>
-<br>
-
-Model deep learning untuk mengidentifikasi penyakit pada daun padi (Blight, Blast, Tungro) menggunakan arsitektur CNN yang dioptimalkan.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------|-------------|----------|--------|------------|
-| Python, TensorFlow/Keras, OpenCV, Flask, React | 12.000+ gambar latih | Akurasi 94.2% | Model serialization, input sanitasi | Deteksi dini penyakit untuk 4 desa binaan | [🔗 Repo](https://github.com/Muhfaizr21/Klasifikasi-Penyakit-Tanaman-Padi) |
-
-Model di-deploy sebagai REST API dan dilengkapi dengan web demo untuk upload gambar daun secara real-time. Menggunakan augmentasi data untuk mengatasi overfitting.
-
-</details>
-
-<details>
-<summary><b>📱 Ujikom Native — Aplikasi Ujian Kompetensi</b></summary>
-<br>
-
-Aplikasi mobile ujian berbasis Android dengan fitur keamanan anti-cheat, timer otomatis, dan penyimpanan lokal.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------|-------------|----------|--------|------------|
-| Flutter, Dart, SQLite, Shared Preferences, REST API | 200+ user aktif | < 100ms rendering soal | Enkripsi jawaban, session token, screenshot prevention | Digunakan oleh 3 SMK untuk ujian kompetensi | [🔗 Repo](https://github.com/Muhfaizr21/Ujikom-Native) |
-
-Aplikasi ini mendukung mode offline dengan sinkronisasi nilai setelah koneksi tersedia. Tersedia dashboard admin untuk mengelola soal, jadwal, dan hasil ujian.
-
-</details>
-
-<details>
-<summary><b>🖥️ Master Komputer — Landing Page & Admin Panel</b></summary>
-<br>
-
-Landing page profesional untuk jasa servis komputer + sistem manajemen tiket pelanggan.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------|-------------|----------|--------|------------|
-| Laravel, Bootstrap, JavaScript, MySQL, Midtrans | 10+ teknisi terdaftar | Load time < 2 detik | Role-based access, SQL injection prevention | Meningkatkan inquiry pelanggan sebesar 40% | [🔗 Repo](https://github.com/Muhfaizr21/master_komputer) |
-
-Pelanggan dapat membuat tiket servis, melacak status, dan melakukan pembayaran online. Admin dapat mengelola teknisi, laporan pendapatan, dan notifikasi otomatis.
-
-</details>
-
----
-
-## 💼 Experience
-
-**Full Stack Engineer & AI Enthusiast** · Freelance / Self-employed  
-*2023 – Sekarang*
-
-Membangun solusi end-to-end untuk klien dari berbagai sektor: pertanian, pendidikan, dan UMKM.
-
-- Mengembangkan 4 sistem produksi (prediksi harga, klasifikasi penyakit, ujian mobile, manajemen servis) dari konsep hingga deployment.
-- Menerapkan CNN untuk mencapai akurasi 94.2% pada dataset penyakit tanaman padi yang tidak seimbang.
-- Mengintegrasikan pembayaran Midtrans dan fitur offline-first pada aplikasi mobile Flutter.
-- Melakukan konsultasi teknis dengan 5+ UMKM lokal untuk digitalisasi proses bisnis.
-
-`Laravel` `Flutter` `TensorFlow` `MySQL` `REST API` `Midtrans`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| **Juara 1 Lomba Inovasi Digital Tingkat Provinsi** | Aplikasi prediksi harga cabai untuk ketahanan pangan (2024) |
-| **Open Source Contributor** | Kontribusi pada dokumentasi TensorFlow Indonesia dan proyek open source kecil |
-| **AWS Restart Graduate** | Lulus program pelatihan cloud computing AWS (2024) |
-| **Speaker @ Workshop AI SMK** | Mengajar 50+ siswa tentang pengenalan gambar menggunakan CNN |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-### AWS
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
-### Oracle
-[![Oracle Cloud Foundations](https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
-### NPTEL
-[![NPTEL Python](https://img.shields.io/badge/NPTEL_Python_Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-
-### Cisco
-[![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
-
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -253,19 +140,19 @@ Membangun solusi end-to-end untuk klien dari berbagai sektor: pertanian, pendidi
 
 ```yaml
 learning:
-  - "Advanced Laravel (Service Container, Queues)"
-  - "Machine Learning Deployment (TensorFlow Serving)"
-  - "Flutter state management (Riverpod)"
+  - "Distributed Systems (DDIA)"
+  - "Advanced MLOps (Kubeflow, Ray)"
+  - "Rust for high‑performance tooling"
 
 building:
-  - "Aplikasi monitoring kualitas air berbasis IoT"
-  - "Dashboard real-time untuk prediksi hasil panen"
+  - "Open source RAG evaluation framework"
+  - "Personal cloud cost optimizer (AWS + Terraform)"
 
 exploring:
-  - "Computer vision untuk deteksi hama otomatis"
-  - "WebAssembly untuk inferensi model di browser"
+  - "Multi‑modal AI agents"
+  - "WebAssembly for edge inference"
 
 open_to:
-  - "Proyek kolaborasi AI/Fullstack"
-  - "Freelance pembuatan sistem informasi"
-  - "Kontribusi open source bidang EdTech atau Agritech"
+  - "Senior full‑stack / AI engineering roles"
+  - "Technical writing & speaking opportunities"
+  - "Open source collaborations"
