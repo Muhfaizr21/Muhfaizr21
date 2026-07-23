@@ -94,26 +94,6 @@ Professional software engineer with a passion for building **intelligent, scalab
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&count_private=true&hide_border=true&title_color=9B4DFF&icon_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhfaizr21&hide_border=true&stroke=9B4DFF&background=0d1117&ring=9B4DFF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9B4DFF&sideLabels=9B4DFF&dates=8B949E"/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhfaizr21&layout=compact&hide_border=true&title_color=9B4DFF&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhfaizr21&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
