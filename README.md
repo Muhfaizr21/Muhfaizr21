@@ -1,13 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Muhammad%20Faiz%20Ramadhan&fontSize=45&fontColor=fff&animation=twinkling&gradientColor=6D28D9,4C1D95,2E1065" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Faiz%20Ramadhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9B4DFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI%2FML+Specialist;Scalable+Systems+Architect;Product+Engineering+Mindset)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=1000&lines=Remote+Senior+Software+Engineer;Go+%2B+React+%2B+PostgreSQL%2FMySQL;Payment+Gateway+%26+API+Integration+Specialist;Building+POS%2C+ORMAWA%2C+%26+E-Commerce+Platforms)](https://git.io/typing-svg)
 
 <br>
 
-[![Academic](https://img.shields.io/badge/B.S._Computer_Science-3B82F6?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=2C3E50)](https://github.com/Muhfaizr21)
-[![Location](https://img.shields.io/badge/Jakarta,_Indonesia-FF6B6B?style=flat-square&logo=google-maps&logoColor=white&labelColor=2C3E50)](https://github.com/Muhfaizr21)
+[![Origin](https://img.shields.io/badge/Asal-Cirebon-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)](https://github.com/Muhfaizr21)
+[![Campus](https://img.shields.io/badge/Mahasiswa_Aktif-Politeknik_Negeri_Indramayu-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1a1a2e)](https://github.com/Muhfaizr21)
+[![Role](https://img.shields.io/badge/Remote_Senior_Software_Engineer-Aplikasi_Dagang_%26_Teknologi-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://github.com/Muhfaizr21)
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://faizramadhan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizramadhan021104@gmail.com)
@@ -15,24 +19,25 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhfaizr21&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/Muhfaizr21?style=flat-square&logo=github&color=blueviolet&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/Muhfaizr21?style=flat-square&logo=github&color=blueviolet&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhfaizr21&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Muhfaizr21?style=for-the-badge&logo=github&color=8B5CF6&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/Muhfaizr21?style=for-the-badge&logo=github&color=8B5CF6&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-## 📌 About Me
+## 📌 Tentang Saya
 
-Professional software engineer with a passion for building **intelligent, scalable systems** that bridge the gap between cutting-edge AI and production-grade engineering. I architect full-stack solutions with a product-first mindset — delivering measurable impact through clean code, robust infrastructure, and human-centered design.
+Asli **Cirebon**, kini menempuh studi sebagai **mahasiswa aktif Politeknik Negeri Indramayu** sambil berperan sebagai **Remote Senior Software Engineer** di sebuah aplikasi dagang & teknologi. Fokus saya adalah membangun sistem backend yang kuat dan terintegrasi rapi dengan frontend modern — dari integrasi payment gateway lokal hingga platform manajemen organisasi kampus.
 
-- **AI/ML Focus** — Deploying LLMs, computer vision pipelines, and predictive models into real-world applications.
-- **Full Stack Mastery** — Seamless integration from React/Next.js frontends to distributed backend services.
-- **Product Engineering** — Translating complex requirements into maintainable, testable, and delightful software.
-- **DevOps Culture** — Automating everything: CI/CD, container orchestration, infrastructure as code.
+- 🛠️ **Full Stack Development** — Go (backend) + React (frontend), dengan PostgreSQL/MySQL sebagai lapisan data.
+- 💳 **Payment Gateway Integration** — Integrasi Xendit & Midtrans untuk sistem pembayaran digital Indonesia.
+- 🎓 **Education Platform Integration** — Integrasi API SEVIMA untuk kebutuhan platform pendidikan.
+- 🧾 **Product Engineering** — Membangun aplikasi POS, platform manajemen ORMAWA, dan situs e-commerce dari nol.
+- 🔐 **Security-First Backend** — Operasional di server Linux staging & production dengan RBAC berbasis token/session.
 
-🔭 **Open To** — Senior/Staff engineering roles, AI/ML engineering positions, technical consulting, and open-source collaborations.
+🔭 **Terbuka untuk** — kolaborasi proyek engineering, konsultasi teknis, dan peluang remote engineering lanjutan.
 
 ---
 
@@ -40,47 +45,42 @@ Professional software engineer with a passion for building **intelligent, scalab
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=py)
+### 💻 Bahasa Pemrograman
 ![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![PHP](https://skillicons.dev/icons?i=php)
 
 ### 🎨 Frontend
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vue](https://skillicons.dev/icons?i=vue)
 
-### ⚙️ Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+### ⚙️ Backend & Database
+![Go](https://skillicons.dev/icons?i=go)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
 
-### ☁️ Cloud, DevOps & Tooling
-![AWS](https://skillicons.dev/icons?i=aws)
+### ☁️ Infrastruktur & Tooling
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Terraform](https://skillicons.dev/icons?i=terraform)
+![Git](https://skillicons.dev/icons?i=git)
+![Github Actions](https://skillicons.dev/icons?i=githubactions)
 
 </div>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 💼 Area Kerja
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Large Language Models** | Advanced | Fine-tuning (LoRA, QLoRA), RAG pipelines, prompt engineering, deployment with vLLM |
-| **Computer Vision** | Intermediate | Object detection (YOLOv8), image segmentation, OpenCV, real-time inference |
-| **Natural Language Processing** | Advanced | Transformers (BERT, GPT), sentiment analysis, named entity recognition, text classification |
-| **MLOps & Orchestration** | Intermediate | MLflow, Kubeflow, model versioning, CI/CD for ML, feature stores |
-| **Time Series Forecasting** | Intermediate | LSTM, Prophet, anomaly detection in streaming data |
+| Domain | Detail |
+|--------|--------|
+| **Payment Gateway** | Integrasi Xendit & Midtrans (Golang) untuk sistem pembayaran digital |
+| **Education Integration** | Integrasi API SEVIMA untuk platform pendidikan |
+| **POS System** | Aplikasi Point of Sale berbasis Go + React dengan kontrol akses menu via RBAC |
+| **ORMAWA Platform** | Platform manajemen organisasi kemahasiswaan kampus |
+| **E-Commerce** | Landing page & frontend e-commerce untuk brand fashion dan skincare |
+| **Backend Security** | Audit keamanan & penguatan RBAC pada backend Go |
 
 ---
 
@@ -94,11 +94,12 @@ Professional software engineer with a passion for building **intelligent, scalab
 
 </div>
 
+---
 
-## 📈 Contribution Activity
+## 📈 Aktivitas Kontribusi
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhfaizr21&theme=github-compact&bg_color=1a1b27&color=9B4DFF&line=7B2EDA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhfaizr21&theme=react-dark&bg_color=1a1a2e&color=D4AF37&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -112,27 +113,28 @@ Professional software engineer with a passion for building **intelligent, scalab
   </picture>
 </div>
 
-*Requires GitHub Action to generate the snake SVG. [Enable it here](https://github.com/Muhfaizr21/Muhfaizr21#-github-snake-contributions).*
+*Perlu GitHub Action untuk generate snake SVG. [Aktifkan di sini](https://github.com/Muhfaizr21/Muhfaizr21#-github-snake-contributions).*
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Fokus Saat Ini
 
 ```yaml
-learning:
-  - "Distributed Systems (DDIA)"
-  - "Advanced MLOps (Kubeflow, Ray)"
-  - "Rust for high‑performance tooling"
+sedang_dipelajari:
+  - "Optimasi arsitektur backend skala tinggi"
+  - "Deployment & hardening server Linux production"
 
-building:
-  - "Open source RAG evaluation framework"
-  - "Personal cloud cost optimizer (AWS + Terraform)"
+sedang_dibangun:
+  - "Integrasi payment gateway multi-provider (Xendit & Midtrans)"
+  - "Platform ORMAWA generasi berikutnya"
 
-exploring:
-  - "Multi‑modal AI agents"
-  - "WebAssembly for edge inference"
+sedang_dieksplorasi:
+  - "Pola RBAC yang lebih granular untuk POS multi-cabang"
+  - "Optimasi query PostgreSQL/MySQL untuk sistem transaksi tinggi"
 
-open_to:
-  - "Senior full‑stack / AI engineering roles"
-  - "Technical writing & speaking opportunities"
-  - "Open source collaborations"
+terbuka_untuk:
+  - "Kolaborasi remote engineering"
+  - "Proyek integrasi API & payment gateway"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
