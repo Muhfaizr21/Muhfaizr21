@@ -1,114 +1,64 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1C1C1E&height=180&section=header" width="100%"/>
-
-<br>
-
 # Muhammad Faiz Ramadhan
 
-<sub>REMOTE SENIOR SOFTWARE ENGINEER — DAGANG &amp; TEKNOLOGI</sub>
+Senior Software Engineer focused on backend architecture, payment integration, and scalable web applications.
 
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=A1A1AA&center=true&vCenter=true&width=650&lines=Go+%C2%B7+React+%C2%B7+PostgreSQL%2FMySQL;Payment+Gateway+%26+API+Integration;Cirebon+%C2%B7+Politeknik+Negeri+Indramayu)](https://git.io/typing-svg)
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white)](https://faizramadhan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:faizramadhan021104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhfaizr21)
-
-</div>
-
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://curly-handbook-436240.framer.app/work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faiz-ramadhan-215a3625b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizramadhan021104@gmail.com)
 
 ---
 
-<br>
+## About
 
-### Tentang
+I build and maintain production web applications, from database design and REST APIs to responsive front-end implementation. My work includes payment gateway integration (Xendit, Midtrans), education platform integration (SEVIMA API), and role-based access control for multi-user systems.
 
-Asli **Cirebon**, saat ini mahasiswa aktif **Politeknik Negeri Indramayu** sekaligus **Remote Senior Software Engineer** di sebuah aplikasi dagang &amp; teknologi. Fokus pada arsitektur backend yang kokoh, terintegrasi rapi dengan frontend modern — mulai dari payment gateway lokal hingga sistem manajemen organisasi kampus.
+Currently a Remote Senior Software Engineer at PT Aplikasi Dagang Teknologi and a Software Engineering student at Politeknik Negeri Indramayu.
 
-<br>
+## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Role | Organization | Period |
+|------|--------------|--------|
+| Senior Software Engineer | PT Aplikasi Dagang Teknologi (Remote) | Jan 2026 – Present |
+| Business Data Research | PT Fahove Teknologi Indonesia (Remote) | Aug 2026 – Present |
+| Full-Stack Engineer (Freelance) | TripleVibe.Tech | Jan 2025 – Present |
+| Full-Stack Engineer (Freelance) | RentGo Indonesia | Jan 2024 – Present |
+| Junior Software Engineer (Intern) | CV Mandiri Putra Nusa | Mar – Jul 2022 |
 
-**Backend**
-Go · Node.js · REST API
+## Selected Projects
 
-**Database**
-PostgreSQL · MySQL
+- **Indovia**: Multi-tenant SaaS e-commerce engine built with Go and React 18. Includes tenant data isolation, automatic subdomains, custom domain SSL, and a superadmin panel.
+- **UBK Student Hub**: Learning management system for Universitas Bhakti Kencana, serving 8 campuses. Built with Go and React.
+- **Warung Forza**: E-commerce platform for international action figure brands, built with Go and React.
+- **POS Application**: Point-of-sale system with role-based menu access control, built with Go, React, and PostgreSQL.
+- **ORMAWA Platform**: Management platform for campus student organizations.
+- **KawanGizi**: Toxic food detection system using YOLOv8.
 
-</td>
-<td width="50%" valign="top">
+## Technical Skills
 
-**Frontend**
-React · Tailwind CSS
+- **Backend**: Go, Laravel (PHP), Node.js, REST API design, RBAC, token and session authentication
+- **Frontend**: React, Next.js, Vue.js, Flutter, Tailwind CSS
+- **Databases**: PostgreSQL, MySQL
+- **Integrations**: Xendit, Midtrans, SEVIMA API
+- **Environment**: Linux (staging and production)
 
-**Infrastruktur**
-Linux (staging/production) · Docker · Git
+## Certifications
 
-</td>
-</tr>
-</table>
+- Google AI Professional Certificate (Coursera, 2026)
+- Cyber Security Fundamentals, IBM (2026)
+- Assistant Web Developer, Digital Talent Academy (2026)
+- Machine Learning Pipelines with Azure ML Studio (2026)
 
-<br>
+## GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&theme=default&hide_border=true)
 
-<br>
-
-### Area Kerja
-
-| | |
-|---|---|
-| **Payment Gateway** | Integrasi Xendit &amp; Midtrans (Golang) |
-| **Education Integration** | Integrasi API SEVIMA |
-| **POS System** | Go + React, kontrol akses menu berbasis RBAC |
-| **ORMAWA Platform** | Manajemen organisasi kemahasiswaan kampus |
-| **E-Commerce** | Frontend &amp; landing page brand fashion dan skincare |
-| **Backend Security** | Audit &amp; penguatan RBAC pada backend Go |
-
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhfaizr21&layout=compact&theme=default&hide_border=true)
 
 ---
 
-<br>
+## Contact
 
-### Statistik
+Open to backend and full-stack engineering roles, technical collaboration, and projects in payment systems, web architecture, and system integration.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&icon_color=A1A1AA&text_color=A1A1AA" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhfaizr21&theme=dark&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/A1A1AA/Muhfaizr21" width="100%"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-### Fokus Saat Ini
-
-```
-sedang dipelajari    → Optimasi arsitektur backend skala tinggi
-sedang dibangun      → Integrasi payment gateway multi-provider
-sedang dieksplorasi  → Pola RBAC granular untuk POS multi-cabang
-terbuka untuk        → Kolaborasi remote engineering
-```
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1E,100:0A0A0A&height=100&section=footer" width="100%"/>
-</div>
+- Email: faizramadhan021104@gmail.com
+- LinkedIn: [linkedin.com/in/muhammad-faiz-ramadhan-215a3625b](https://linkedin.com/in/muhammad-faiz-ramadhan-215a3625b)
