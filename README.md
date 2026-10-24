@@ -18,52 +18,59 @@ My work spans **payment gateway integration** (Xendit, Midtrans), **education pl
 
 ---
 
-## 🚀 Selected Projects
+## 🎯 What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🛒 Indovia
-Multi-tenant SaaS e-commerce engine built with **Go** & **React 18**. Features tenant data isolation, automatic subdomains, custom domain SSL, and a superadmin panel.
-
-</td>
-<td width="50%">
-
-### 🎓 UBK Student Hub
-Learning management system for **Universitas Bhakti Kencana**, serving 8 campuses. Built with **Go** & **React**.
+### 🏗️ Backend Architecture
+Designing scalable REST APIs, multi-tenant systems, and role-based access control that hold up in production.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🦸 Warung Forza
-E-commerce platform for international action figure brands, built with **Go** & **React**.
+### 💳 Payment Integration
+Connecting Xendit & Midtrans into real-world commerce flows — from checkout to settlement, reliably.
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🧾 POS Application
-Point-of-sale system with role-based menu access control, built with **Go**, **React**, & **PostgreSQL**.
+### 🔗 System Integration
+Bridging third-party platforms (like SEVIMA API) with internal systems through clean, maintainable interfaces.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏛️ ORMAWA Platform
-Management platform for campus student organizations.
+### 🌐 Full-Stack Delivery
+Shipping end-to-end features — database schema, API layer, and responsive React/Vue front-ends.
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🥗 KawanGizi
-Toxic food detection system using **YOLOv8**.
+### 🔐 Auth & Access Control
+Implementing token/session authentication and granular RBAC for multi-user, multi-role platforms.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Production Operations
+Deploying and maintaining apps on Linux staging & production environments with an eye on stability.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💡 How I Work
+
+- **Pragmatic by default** — I favor simple, boring solutions that are easy to maintain over clever ones that aren't.
+- **Ship, then refine** — production feedback beats speculation; I iterate on real usage.
+- **Own the whole slice** — from schema to UI, I like seeing a feature through end to end.
+- **Document as I go** — good interfaces (and good READMEs) save future-me and teammates hours.
 
 ---
 
