@@ -1,5 +1,5 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Faiz%20Ramadhan&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=78&animation=fadeIn" width="100%"/>
+<!-- Header: 3D isometric hero (local SVG, no external service) -->
+<img src="./assets/hero.svg" width="100%" alt="Muhammad Faiz Ramadhan — Full Stack Engineer"/>
 
 <h1 align="center">Faiz here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1>
 
@@ -39,7 +39,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="420" alt="3D developer workstation"/>
 
 </td>
 </tr>
@@ -169,6 +169,16 @@
 <a href="https://github.com/Muhfaizr21/SiapTerbang">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=SiapTerbang&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D isometric contribution graph"/>
 
 </div>
 
