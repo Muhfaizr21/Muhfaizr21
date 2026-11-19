@@ -137,8 +137,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/snake-violet-dark.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/snake-violet.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/snake-violet-dark.svg?v=1">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Muhfaizr21/Muhfaizr21/output/snake-violet.svg?v=1">
   </picture>
 </div>
 
