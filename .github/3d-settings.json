@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-violet.svg",
+  "backgroundColor": "#0b0b12",
+  "foregroundColor": "#ececf1",
+  "strongColor": "#A78BFA",
+  "weakColor": "#8b8b9a",
+  "radarColor": "#7C3AED",
+  "growingAnimation": true,
+  "contribColors": ["#1a1626", "#3b2a63", "#5b3fa8", "#7C3AED", "#A78BFA"]
+}

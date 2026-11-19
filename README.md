@@ -76,19 +76,40 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 <a href="https://github.com/Muhfaizr21/BISINDO-Mobile">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=BISINDO-Mobile&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
+
+</td>
+<td align="center" width="50%">
+
 <a href="https://github.com/Muhfaizr21/manajemen-inventaris-barang">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=manajemen-inventaris-barang&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
-<br>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 <a href="https://github.com/Muhfaizr21/kinetics-vision">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=kinetics-vision&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
+
+</td>
+<td align="center" width="50%">
+
 <a href="https://github.com/Muhfaizr21/SiapTerbang">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhfaizr21&repo=SiapTerbang&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -98,7 +119,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D isometric contribution graph"/>
+<img src="./profile-3d-contrib/profile-violet.svg" width="100%" alt="3D isometric contribution graph"/>
 
 </div>
 
