@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhfaizr21&show_icons=true&hide_border=true&theme=tokyonight&title_color=7C3AED&icon_color=7C3AED" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhfaizr21&hide_border=true&theme=tokyonight&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 <br>
