@@ -1,4 +1,4 @@
-<!-- Header: 3D isometric hero (local SVG, no external service) -->
+<!-- 3D hero -->
 <img src="./assets/hero.svg" width="100%" alt="Muhammad Faiz Ramadhan — Full Stack Engineer"/>
 
 <h1 align="center">Faiz here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1>
@@ -13,9 +13,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 🌱 About Me
+<img src="./assets/3d/section-about.svg" height="46" alt="About Me"/>
 
 <table>
 <tr>
@@ -31,10 +31,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://faizramadhan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizramadhan021104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhfaizr21)
+[<img src="./assets/3d/btn-portfolio.svg" height="42" alt="Portfolio"/>](https://faizramadhan.vercel.app)
+[<img src="./assets/3d/btn-linkedin.svg" height="42" alt="LinkedIn"/>](https://www.linkedin.com/in/muhammad-faiz-ramadhan-215a3625b/)
+[<img src="./assets/3d/btn-email.svg" height="42" alt="Email"/>](mailto:faizramadhan021104@gmail.com)
+[<img src="./assets/3d/btn-github.svg" height="42" alt="GitHub"/>](https://github.com/Muhfaizr21)
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -45,19 +45,19 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 🧰 Languages & tools I have placed my hands on
+<img src="./assets/3d/section-stack.svg" height="46" alt="Tech Stack"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,php,react,nextjs,tailwind,vue,nodejs,laravel,fastapi,postgres,mongodb,redis,aws,docker,kubernetes,githubactions,terraform,git,linux,figma,tensorflow,pytorch,opencv&theme=dark&perline=13" />
+<img src="./assets/3d/tech.svg" width="100%" alt="3D tech stack"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## ⚡ GitHub Stats
+<img src="./assets/3d/section-stats.svg" height="46" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -70,89 +70,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
-
-## ⭐ Most Used Languages &nbsp;·&nbsp; ✨ Random Dev Quote
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhfaizr21&theme=tokyonight" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
-
-## 📌 Featured Projects
+<img src="./assets/3d/section-projects.svg" height="46" alt="Featured Projects"/>
 
 <div align="center">
 
@@ -172,9 +92,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 🧊 3D Contribution Graph
+<img src="./assets/3d/section-contrib.svg" height="46" alt="3D Contribution Graph"/>
 
 <div align="center">
 
@@ -182,9 +102,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 📈 Contribution Activity
+<img src="./assets/3d/section-activity.svg" height="46" alt="Contribution Activity"/>
 
 <div align="center">
 
@@ -192,7 +112,7 @@
 
 </div>
 
-## 🐍 Contribution Snake
+<img src="./assets/3d/section-snake.svg" height="46" alt="Contribution Snake"/>
 
 <div align="center">
   <picture>
@@ -201,19 +121,21 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" width="100%"/>
+<img src="./assets/3d/divider.svg" width="100%"/>
 
-## 💻 Coding Profiles
+<img src="./assets/3d/section-coding.svg" height="46" alt="Coding Profiles"/>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/faizramadhan)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/faizramadhan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/faizramadhan)
+[<img src="./assets/3d/btn-leetcode.svg" height="42" alt="LeetCode"/>](https://leetcode.com/faizramadhan)
+[<img src="./assets/3d/btn-geeksforgeeks.svg" height="42" alt="GeeksforGeeks"/>](https://auth.geeksforgeeks.org/user/faizramadhan)
+[<img src="./assets/3d/btn-hackerrank.svg" height="42" alt="HackerRank"/>](https://www.hackerrank.com/faizramadhan)
 
 </div>
 
-## 🎯 Current Focus
+<img src="./assets/3d/divider.svg" width="100%"/>
+
+<img src="./assets/3d/section-focus.svg" height="46" alt="Current Focus"/>
 
 ```yaml
 learning:
@@ -235,4 +157,4 @@ open_to:
   - "Open source collaborations"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks%20for%20stopping%20by%20%E2%AD%90&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="./assets/3d/footer.svg" width="100%" alt="Thanks for stopping by"/>

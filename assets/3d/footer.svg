@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="240" viewBox="0 0 1600 240" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="fg79" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0b12"/>
+      <stop offset="0.6" stop-color="#120e1f"/>
+      <stop offset="1" stop-color="#1a1230"/>
+    </linearGradient>
+    <radialGradient id="fg79h" cx="0.5" cy="1" r="0.7">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="240" fill="url(#fg79)"/>
+  <rect width="1600" height="240" fill="url(#fg79h)"/>
+  <g stroke="#7C3AED" stroke-opacity="0.16">
+    <line x1="0" y1="196" x2="1600" y2="196"/>
+    <line x1="0" y1="216" x2="1600" y2="216"/>
+    <line x1="0" y1="234" x2="1600" y2="234"/>
+    <line x1="200" y1="240" x2="800" y2="150"/>
+    <line x1="520" y1="240" x2="800" y2="150"/>
+    <line x1="1080" y1="240" x2="800" y2="150"/>
+    <line x1="1400" y1="240" x2="800" y2="150"/>
+  </g>
+  <g>
+    <polygon points="157.00,97.00 180.00,110.34 180.00,133.34 157.00,120.00" fill="#51269a"/>
+    <polygon points="203.00,97.00 180.00,110.34 180.00,133.34 203.00,120.00" fill="#6d33d1"/>
+    <polygon points="180.00,83.66 203.00,97.00 180.00,110.34 157.00,97.00" fill="#a375f2"/>
+    <polygon points="180.00,83.66 203.00,97.00 180.00,110.34 157.00,97.00" fill="#ffffff" opacity="0.14"/>
+  </g><g>
+    <polygon points="285.00,135.00 300.00,143.70 300.00,158.70 285.00,150.00" fill="#5a3ca0"/>
+    <polygon points="315.00,135.00 300.00,143.70 300.00,158.70 315.00,150.00" fill="#7a51d8"/>
+    <polygon points="300.00,126.30 315.00,135.00 300.00,143.70 285.00,135.00" fill="#ae8df9"/>
+    <polygon points="300.00,126.30 315.00,135.00 300.00,143.70 285.00,135.00" fill="#ffffff" opacity="0.14"/>
+  </g><g>
+    <polygon points="1270.00,98.00 1290.00,109.60 1290.00,129.60 1270.00,118.00" fill="#6d5aa3"/>
+    <polygon points="1310.00,98.00 1290.00,109.60 1290.00,129.60 1310.00,118.00" fill="#937adc"/>
+    <polygon points="1290.00,86.40 1310.00,98.00 1290.00,109.60 1270.00,98.00" fill="#c1aefc"/>
+    <polygon points="1290.00,86.40 1310.00,98.00 1290.00,109.60 1270.00,98.00" fill="#ffffff" opacity="0.14"/>
+  </g><g>
+    <polygon points="1416.00,138.00 1430.00,146.12 1430.00,160.12 1416.00,152.00" fill="#51269a"/>
+    <polygon points="1444.00,138.00 1430.00,146.12 1430.00,160.12 1444.00,152.00" fill="#6d33d1"/>
+    <polygon points="1430.00,129.88 1444.00,138.00 1430.00,146.12 1416.00,138.00" fill="#a375f2"/>
+    <polygon points="1430.00,129.88 1444.00,138.00 1430.00,146.12 1416.00,138.00" fill="#ffffff" opacity="0.14"/>
+  </g><g>
+    <polygon points="729.00,165.00 740.00,171.38 740.00,182.38 729.00,176.00" fill="#471a8d"/>
+    <polygon points="751.00,165.00 740.00,171.38 740.00,182.38 751.00,176.00" fill="#6023bf"/>
+    <polygon points="740.00,158.62 751.00,165.00 740.00,171.38 729.00,165.00" fill="#9969e4"/>
+    <polygon points="740.00,158.62 751.00,165.00 740.00,171.38 729.00,165.00" fill="#ffffff" opacity="0.14"/>
+  </g>
+  <text x="800" y="108" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#f4f4f5">Thanks for stopping by</text>
+  <text x="800" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#A78BFA">BUILD SOMETHING THAT LASTS</text>
+</svg>

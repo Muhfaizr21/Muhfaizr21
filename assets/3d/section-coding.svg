@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327" height="74" viewBox="0 0 327 74" role="img" aria-label="Coding Profiles">
+  <defs>
+    <linearGradient id="pg9" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#221a33"/>
+      <stop offset="0.55" stop-color="#151020"/>
+      <stop offset="1" stop-color="#100d18"/>
+    </linearGradient>
+    <linearGradient id="pg9s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="8" width="321" height="64" rx="32" fill="#000000" opacity="0.45"/>
+  <rect x="3" y="2" width="321" height="64" rx="32" fill="url(#pg9)" stroke="#ffffff" stroke-opacity="0.14"/>
+  <rect x="4" y="3" width="319" height="25.6" rx="32" fill="url(#pg9s)"/>
+  <rect x="26" y="60" width="275" height="2" rx="1" fill="#7C3AED" opacity="0.55"/>
+  <g>
+    <polygon points="33.00,21.00 46.00,28.54 46.00,41.54 33.00,34.00" fill="#51269a"/>
+    <polygon points="59.00,21.00 46.00,28.54 46.00,41.54 59.00,34.00" fill="#6d33d1"/>
+    <polygon points="46.00,13.46 59.00,21.00 46.00,28.54 33.00,21.00" fill="#a375f2"/>
+    <polygon points="46.00,13.46 59.00,21.00 46.00,28.54 33.00,21.00" fill="#ffffff" opacity="0.14"/>
+  </g>
+  <text x="76" y="43" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f4f4f5" letter-spacing="0.3">Coding Profiles</text>
+  
+</svg>
