@@ -1,12 +1,6 @@
 <!-- 3D hero -->
 <img src="./assets/hero.svg" width="100%" alt="Muhammad Faiz Ramadhan — Full Stack Engineer"/>
 
-<h1 align="center">Faiz here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muhfaizr21&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Muhfaizr21?style=flat-square&color=7C3AED&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Muhfaizr21?style=flat-square&color=7C3AED&label=TOTAL+STARS)
-
 </div>
 
 <img src="./assets/3d/divider.svg" width="100%"/>
